@@ -28,6 +28,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ---
 
-ng new ngmikrofrontends --createApplication="false"
+> create a workspace
+> ng new ngmikrofrontends --createApplication="false"
 
-ng generate application main --skip-test="true"
+> create a application
+> ng generate application main --skip-test="true"
+
+> add angular elements to the workspace
+> ng add @angular/elements
