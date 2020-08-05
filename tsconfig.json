@@ -6,5 +6,30 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/contacts/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/contacts/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/accounting/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/accounting/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/feeds/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/feeds/tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/main/tsconfig.app.json"
+    },
+    {
+      "path": "./projects/main/tsconfig.spec.json"
+    }
+]
 }
